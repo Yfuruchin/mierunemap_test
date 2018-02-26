@@ -1,0 +1,18 @@
+<GDAL_WMS>
+<Service name="TMS">
+<ServerUrl>https://tile.mierune.co.jp/mierune_mono/{z}/{x}/{y}.png</ServerUrl>
+</Service>
+<UpperLeftX>-20037508.34</UpperLeftX>
+<UpperLeftY>20037508.34</UpperLeftY>
+<LowerRightX>20037508.34</LowerRightX>
+<LowerRightY>-20037508.34</LowerRightY>
+<TileLevel>16</TileLevel>
+<TileCountX>1</TileCountX>
+<TileCountY>1</TileCountY>
+<YOrigin>top</YOrigin>
+</DataWindow>
+<Projection>EPSG:3857</Projection>
+<BlockSizeX>256</BlockSizeX>
+<BlockSizeY>256</BlockSizeY>
+<Cache />
+</GDAL_WMS>
