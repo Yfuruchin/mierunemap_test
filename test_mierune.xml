@@ -230,7 +230,7 @@
      </Styles>   
      <Fomat>image/png</Fomat>   
      <TileMatrixSetLink>    
-       <TileMatrixSet>z2to18</TileMatrixSet>    
+       <TileMatrixSet>z1to15</TileMatrixSet>    
      </TileMatrixSetLink>   
      <ResourceURL format="image/png" resourceType="tile" template=" https://tile.mierune.co.jp/mierune_mono/{TileMatrix}/{TileCol}/{TileRow}.png"/>   
    </Layer>  
